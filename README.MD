@@ -8,4 +8,6 @@ Some things I did in the past(from around 2016-2018):
 * [DCGAN for MNIST digits and face generation](https://github.com/llealgt/dcgan_face_generation/blob/master/dlnd_face_generation.ipynb): deep convolutional GAN applied to the MNIST(to generate digits) dataset and the celeba dataset(to generate faces).
 * [DCGAN for SVHN(street view house numbers)](https://github.com/llealgt/DCGAN_SVHN): deep convolutional GAN applied to the SVHN(to generate house numbers) dataset .
 * [GAN for video/animation generation of "ARRIVAL" movie circles](https://github.com/llealgt/MNIST_GAN/blob/master/Video%20Generation%20GAN.ipynb): GAN used to generate the "signs" from the movie "ARRIVAL". Some results:
+
 ![](https://github.com/llealgt/MNIST_GAN/blob/master/animation.gif)
+![](https://github.com/llealgt/MNIST_GAN/blob/master/animation1503556347.gif)
