@@ -14,4 +14,4 @@ Some things I did in the past(from around 2016-2018):
 ![](https://github.com/llealgt/MNIST_GAN/blob/master/animation.gif)
 ![](https://github.com/llealgt/MNIST_GAN/blob/master/animation1503556347.gif)
 * Autoencoders
-** [Simple auto-encoder for MNIST](https://github.com/llealgt/Autoencoders/blob/master/Simple_Autoencoder.ipynb): a vanilla autoencoder using the MNIST dataset
+	* [Simple auto-encoder for MNIST](https://github.com/llealgt/Autoencoders/blob/master/Simple_Autoencoder.ipynb): a vanilla autoencoder using the MNIST dataset
