@@ -33,3 +33,5 @@ Some things I did in the past(from around 2016-2018):
 * [Multimodal generation(text to image) using VQGAN+CLIP](https://github.com/llealgt/generative_AI_2023/blob/main/MultiModalGeneration(VQGAN%2BCLIP).ipynb): vector quantized gan + contrastive language-image pretraining for generating images from text.
 
 ![](https://github.com/llealgt/generative_AI_2023/blob/main/output.gif)
+![](https://github.com/llealgt/generative_AI_2023/blob/main/output2.gif)
+![](https://github.com/llealgt/generative_AI_2023/blob/main/outpu3.gif)
