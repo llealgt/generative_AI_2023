@@ -34,4 +34,6 @@ Some things I did in the past(from around 2016-2018):
 
 ![](https://github.com/llealgt/generative_AI_2023/blob/main/output.gif)
 ![](https://github.com/llealgt/generative_AI_2023/blob/main/output2.gif)
-![](https://github.com/llealgt/generative_AI_2023/blob/main/outpu3.gif)
+![](https://github.com/llealgt/generative_AI_2023/blob/main/output3.gif)
+![](https://github.com/llealgt/generative_AI_2023/blob/main/output4.gif)
+![](https://github.com/llealgt/generative_AI_2023/blob/main/output5.gif)
