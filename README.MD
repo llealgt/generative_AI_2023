@@ -19,3 +19,8 @@ Some things I did in the past(from around 2016-2018):
 	* [Convolutional auto-encoder for MNIST](https://github.com/llealgt/Autoencoders/blob/master/Convolutional_Autoencoder.ipynb) : a convolutional autoencoder applied to the MNIST dataset
 	* [Convolutiona auto-encoder for genoising MNIST](https://github.com/llealgt/Autoencoders/blob/master/Convolutional%20Autoencoder%20For%20Denoising.ipynb): a denoising autoencoder applied to the MNIST dataset
 	* [Variational auto-encoder](https://github.com/llealgt/Autoencoders/blob/master/Varational%20Autoencoder.ipynb):  a variational autoencoder applied to the mnist dataset
+
+	## Post-2023
+
+	* [Basic GAN](https://github.com/llealgt/generative_AI_2023/blob/main/basic_GAN.ipynb): just a good old original GAN.
+	* [Wasserstein GAN with gradient penalty for face generation](https://github.com/llealgt/generative_AI_2023/blob/main/AdvancedGAN(WGAN-GP).ipynb) : a WGAN-GP for face generation
