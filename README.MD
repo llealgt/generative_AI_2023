@@ -26,3 +26,6 @@ Some things I did in the past(from around 2016-2018):
 
 	* [Basic GAN](https://github.com/llealgt/generative_AI_2023/blob/main/basic_GAN.ipynb): just a good old original GAN.
 	* [Wasserstein GAN with gradient penalty for face generation](https://github.com/llealgt/generative_AI_2023/blob/main/AdvancedGAN(WGAN-GP).ipynb) : a WGAN-GP for face generation
+
+	![](https://github.com/llealgt/generative_AI_2023/blob/main/wgan_output.png?raw=true) 
+	![](https://github.com/llealgt/generative_AI_2023/blob/main/wgan_output2.png?raw=true)
