@@ -30,6 +30,8 @@ Some things I did in the past(from around 2016-2018):
 	![](https://github.com/llealgt/generative_AI_2023/blob/main/wgan_output.png?raw=true) 
 	![](https://github.com/llealgt/generative_AI_2023/blob/main/wgan_output2.png?raw=true)
 
+* [GAN with adaptive discriminator augmentation and kernel inception distance](https://github.com/llealgt/generative_AI_2023/blob/main/GAN_ADA.ipynb): GAN with adaptive discriminator augmentation to prevent discriminator from overfiting and kernel inception distance to measure quality of generated images.
+
 * [Multimodal generation(text to image) using VQGAN+CLIP](https://github.com/llealgt/generative_AI_2023/blob/main/MultiModalGeneration(VQGAN%2BCLIP).ipynb): vector quantized gan + contrastive language-image pretraining for generating images from text.
 
 ![](https://github.com/llealgt/generative_AI_2023/blob/main/output.gif)
