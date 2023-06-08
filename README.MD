@@ -28,7 +28,7 @@ Some things I did in the past(from around 2016-2018):
 
 
 * Autoregressive:
-	* [PixelCNN from Pixel RNNs paper](https://github.com/llealgt/The_simpsons_scripts_writer/blob/master/dlnd_tv_script_generation.ipynb): PixelCNN applied to MNIST from the paper "pixel recurrent neural networks"
+	* [PixelCNN from Pixel RNNs paper](https://github.com/llealgt/generative_AI_2023/blob/main/PixelCNN.ipynb): PixelCNN applied to MNIST from the paper "pixel recurrent neural networks"
 * [Basic GAN](https://github.com/llealgt/generative_AI_2023/blob/main/basic_GAN.ipynb): just a good old original GAN.
 * [Conditional GAN](https://github.com/llealgt/generative_AI_2023/blob/main/ConditionalGAN.ipynb): just a super simple conditional gan using MNIST(given a digit label generate an image of that digit)
 * [Wasserstein GAN with gradient penalty for face generation](https://github.com/llealgt/generative_AI_2023/blob/main/AdvancedGAN(WGAN-GP).ipynb) : a WGAN-GP for face generation
