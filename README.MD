@@ -29,7 +29,7 @@ Some things I did in the past(from around 2016-2018):
 
 * Autoregressive:
 	* [PixelCNN from Pixel RNNs paper](https://github.com/llealgt/generative_AI_2023/blob/main/PixelCNN.ipynb): PixelCNN applied to MNIST from the paper "pixel recurrent neural networks"
-	* [LLM parameter-efficient fine-tuning](https://github.com/llealgt/generative_AI_2023/blob/main/PixelCNN.ipynb): LLM fine-tuned using parameter-effficient fine-tuning(LoRA)
+	* [LLM parameter-efficient fine-tuning](https://github.com/llealgt/generative_AI_2023/blob/main/Lab_2_fine_tune_generative_ai_model.ipynb): LLM fine-tuned using parameter-effficient fine-tuning(LoRA)
 * [Basic GAN](https://github.com/llealgt/generative_AI_2023/blob/main/basic_GAN.ipynb): just a good old original GAN.
 * [Conditional GAN](https://github.com/llealgt/generative_AI_2023/blob/main/ConditionalGAN.ipynb): just a super simple conditional gan using MNIST(given a digit label generate an image of that digit)
 * [Wasserstein GAN with gradient penalty for face generation](https://github.com/llealgt/generative_AI_2023/blob/main/AdvancedGAN(WGAN-GP).ipynb) : a WGAN-GP for face generation
